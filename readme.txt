@@ -33,4 +33,3 @@ A simple, fast, and user-friendly Telegram bot for helping users search for apar
 1. Clone the repository:
    ```bash
    git clone https://github.com/HasanboyMirdadoev/HouseBot.git
-   cd YOUR_REPO_NAME
