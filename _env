@@ -1,4 +1,4 @@
-BLOB_READ_WRITE_TOKEN="vercel_blob_rw_EkdJNyqPndiw72pW_CP8F6LiKWV0QYAbhMAh6guWvP5sS5S"
+BLOB_READ_WRITE_TOKEN="BLOB_TOKEN"
 DATABASE_URL="postgres://default:Nmci9y8rHItl@ep-shiny-dust-a1ac11zy.ap-southeast-1.aws.neon.tech:5432/verceldb?sslmode=require"
 ADMIN_PASSWORD='12345'
-TELEGRAM_BOT_TOKEN="7975936552:AAFC6V30BGmOI4LBCBinFrr8n87ofzo8p9w"
+TELEGRAM_BOT_TOKEN="TELEGRAM_TOKEN"
